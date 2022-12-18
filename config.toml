@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Greyish'
+
+[module]
+[[module.imports]]
+path='github.com/sergeyklay/gohugo-theme-ed'
