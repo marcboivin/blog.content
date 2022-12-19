@@ -1,5 +1,5 @@
 ---
-title: "A Static site,Hugo and Github"
+title: "A Static site, Hugo and Github"
 date: 2022-12-18T13:41:48-05:00
 publishDate: 2022-12-18
 draft: false
