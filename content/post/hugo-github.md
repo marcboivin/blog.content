@@ -1,7 +1,9 @@
 ---
 title: "A Static site,Hugo and Github"
 date: 2022-12-18T13:41:48-05:00
-draft: true
+publishDate: 2022-12-18
+draft: false
+
 ---
 
 Chasing the trend of trying to recapture what it was like to publish and do dev in the early 2000's I'm giving Hugo a try.
