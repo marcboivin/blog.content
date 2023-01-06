@@ -1,6 +1,7 @@
 ---
 title: "Microsoft Did a Sexism... maybe?"
 date: 2023-01-06T14:37:09-05:00
+publishDate: 2023-01-06
 draft: false
 ---
 
