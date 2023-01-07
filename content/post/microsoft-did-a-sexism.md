@@ -7,4 +7,4 @@ draft: false
 
 So as of writing, if you search "please" in the emojis search bar on teams, you will find a womenbowing emojis. Feels wrong doesn't it? 
 
-![Microsoft Teams oops](/static/322486299_726811235323467_1365920987673052063_n.png)
+![Microsoft Teams oops](/images/322486299_726811235323467_1365920987673052063_n.png)
