@@ -102,7 +102,7 @@ uglyURLs = false
     # Email
     email = "mjsdesign@gmail.com"
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = "Sarcsm, of course"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
 
@@ -353,11 +353,11 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2022-12-24T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "marcboivin"
     # Note: used for Twitter Cards
 
 

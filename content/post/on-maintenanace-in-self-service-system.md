@@ -53,12 +53,4 @@ The one thing I think I bring to the table is that the core component of any gov
 ## Where do I see private enterprise in this
 There needs to be pressure to do anything in life. Pressure is easily achieve by competition and prizes. Regular enterprise is motivated by making money. Let's not mess with success, but this should be sustaining implementation and not development.
 
-Well tell a lie, by doing implementation, you almost always need to do some form of development. The outcome of those developments should be the main path of evolution of the GRP.
-
-
-
-
-
-
-
-
+Tell a lie, by doing implementation, you almost always need to do some form of development. The outcome of those developments should be the main path of evolution of the GRP.

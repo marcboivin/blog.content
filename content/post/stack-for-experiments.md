@@ -4,7 +4,15 @@ date: 2022-12-19T09:59:08-05:00
 draft: false
 ---
 
-I used to whip up Django anytime I needed a quick web app. Frontend has gotten messy and complex so I don't enjoy using it as part of my "move fast, test things" workflow. 
+I used to whip up Django anytime I needed a quick web app. Web frontend technologies have gotten messy and complex so I don't enjoy using it as part of my "move fast, test things" workflow. 
+
+My current rules are:
+
+* Terminal is my preferred UI for now;
+* Create plain text if I need to read debug;
+* Create a XSLX or CSV to analyze data;
+* Dump into SQL for more structure stuff;
+* Inter process format is JSON.
 
 Good thing APIs are most everywhere and JSON can be used as a backend frontend now. Everybody speaks JSON, you get pretty output everywhere, you can beautify it and put it in plain text, you can easily rework it by hand or by code and the files are relatively small (compared to your XML of old).
 
